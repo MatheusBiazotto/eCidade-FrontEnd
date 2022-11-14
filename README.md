@@ -1,4 +1,4 @@
-# Como techs, utilizado apenas VueJS em seu frontend, juntamente com uma API hospedada em minha VPS no Cloud Oracle, executando o Strapi.
+Como techs, utilizado apenas VueJS em seu frontend, juntamente com uma API hospedada em minha VPS no Cloud Oracle, executando o Strapi.
 
 ## Project setup
 ```
